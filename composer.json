@@ -32,7 +32,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "Oureastudios\\Laravel": "src/"
+            "GreatDG\\Laravel": "src/"
         }
     },
     "minimum-stability": "dev"
